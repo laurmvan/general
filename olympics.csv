@@ -1,7 +1,7 @@
 ﻿City,Country,Continent,Season,Year
 Athens,Greece,Europe,Summer,1896
 Paris,France,Europe,Summer,1900
-St. Louis,US,North America,Summer,1904
+St. Louis,USA,North America,Summer,1904
 London,UK,Europe,Summer,1908
 Stockholm,Sweden,Europe,Summer,1912
 Berlin,Germany,Europe,Summer,1916
@@ -10,18 +10,18 @@ Chamonix,France,Europe,Winter,1924
 Paris,France,Europe,Summer,1924
 St. Moritz,Switzerland,Europe,Winter,1928
 Amsterdam,Netherlands,Europe,Summer,1928
-Lake Placid,US,North America,Winter,1932
-Los Angeles,US,North America,Summer,1932
+Lake Placid,USA,North America,Winter,1932
+Los Angeles,USA,North America,Summer,1932
 Garmisch-Partenkirchen,Germany,Europe,Winter,1936
 Berlin,Germany,Europe,Summer,1936
 St. Moritz,Switzerland,Europe,Winter,1948
 London,UK,Europe,Summer,1948
-Oslo, Norway,Europe,Winter,1952
-Helsinki, Finland,Europe,Summer,1952
-Cortina d'Ampezzo, Italy,Europe,Winter,1956
-Melbourne, Australia,Oceania,Summer,1956
-Stockholm, Sweden,Europe,Summer,1956
-Squaw Valley,US,North America,Winter,1960
+Oslo,Norway,Europe,Winter,1952
+Helsinki,Finland,Europe,Summer,1952
+Cortina d'Ampezzo,Italy,Europe,Winter,1956
+Melbourne,Australia,Oceania,Summer,1956
+Stockholm,Sweden,Europe,Summer,1956
+Squaw Valley,USA,North America,Winter,1960
 Rome,Italy,Europe,Summer,1960
 Innsbruck,Austria,Europe,Winter,1964
 Tokyo,Japan,Asia,Summer,1964
@@ -31,19 +31,19 @@ Sapporo,Japan,Asia,Winter,1972
 Munich,Germany,Europe,Summer,1972
 Innsbruck,Austria,Europe,Winter,1976
 Montreal,Canada,North America,Summer,1976
-Lake Placid,US,North America,Winter,1980
+Lake Placid,USA,North America,Winter,1980
 Moscow,Soviet Union,Europe,Summer,1980
 Sarajevo,Yugoslavia,Europe,Winter,1984
-Los Angeles,US,North America,Summer,1984
+Los Angeles,USA,North America,Summer,1984
 Calgary,Canada,North America,Winter,1988
 Seoul,South Korea,Asia,Summer,1988
 Albertville,France,Europe,Winter,1992
 Barcelona,Spain,Europe,Summer,1992
 Lillehammer,Norway,Europe,Winter,1994
-Atlanta,US,North America,Summer,1996
+Atlanta,USA,North America,Summer,1996
 Nagano,Japan,Asia,Winter,1998
 Sydney,Australia,Oceania,Summer,2000
-Salt Lake City,US,North America,Winter,2002
+Salt Lake City,USA,North America,Winter,2002
 Athens,Greece,Europe,Summer,2004
 Turin,Italy,Europe,Winter,2006
 Beijing,China,Asia,Summer,2008
